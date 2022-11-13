@@ -51,5 +51,5 @@ configurations {
 
 ## 3. Q파일 런타임시 인식 못하면!!
 - querydsl q파일 찾지 못하면 아래 참고 (for vscode)
-- Java Debugger 2.5점대로 확장프로그램 다운그레이드 or build.gralde 파일 다시 한번 저장하면 해결됨
+- Java Debugger 2.5점대로 확장프로그램 다운그레이드 한 뒤 build.gralde 파일 다시 한번 저장하면 해결됨
 https://www.inflearn.com/questions/35226
